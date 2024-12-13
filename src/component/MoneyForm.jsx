@@ -34,7 +34,6 @@ function MoneyForm() {
         style={{
           display: "flex",
           alignItems: "center",
-          justifyContent: "center",
           flexDirection: "column",
         }}
       >
